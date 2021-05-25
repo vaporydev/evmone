@@ -1,4 +1,4 @@
-# evmone
+# vvmone
 
 [![ethereum badge]][ethereum]
 [![readme style standard badge]][standard readme]
